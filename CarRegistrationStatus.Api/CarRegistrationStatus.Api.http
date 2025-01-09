@@ -1,0 +1,6 @@
+@CarRegistrationStatus.Api_HostAddress = http://localhost:5107
+
+GET {{CarRegistrationStatus.Api_HostAddress}}/getcars/
+Accept: application/json
+
+###

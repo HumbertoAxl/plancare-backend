@@ -1,0 +1,107 @@
+[
+    {
+        "Id": "1e9d7f88-2c72-4f1c-a7e7-6c93e7a95e5d",
+        "Make": "Toyota",
+        "Model": "Camry",
+        "RegistrationExpiryDate": "2025-01-10T01:23:00+08:00",
+        "Plate": "1ABC-123"
+    },
+    {
+        "Id": "d274f0d2-5e2d-4ae5-b0a7-6f2b957f1fa2",
+        "Make": "Honda",
+        "Model": "Civic",
+        "RegistrationExpiryDate": "2025-01-10T10:30:00+08:00",
+        "Plate": "1XYZ-789"
+    },
+    {
+        "Id": "2d7af69d-18b4-4519-9c77-d2c6e775a258",
+        "Make": "Toyota",
+        "Model": "Hilux",
+        "RegistrationExpiryDate": "2025-01-10T14:45:00+08:00",
+        "Plate": "2LMN-456"
+    },
+    {
+        "Id": "cda13b83-f56d-48b0-8288-6f7dbb37e5b1",
+        "Make": "Mazda",
+        "Model": "CX-5",
+        "RegistrationExpiryDate": "2025-01-10T11:45:00+08:00",
+        "Plate": "1JKL-987"
+    },
+    {
+        "Id": "7cb655b1-55a2-4207-9a63-4fdcd9dcf45b",
+        "Make": "BMW",
+        "Model": "X5",
+        "RegistrationExpiryDate": "2025-08-12T15:30:00+08:00",
+        "Plate": "1PQR-321"
+    },
+    {
+        "Id": "ff0e5d5e-6f23-4b7f-93c3-8bf09e53e292",
+        "Make": "Honda",
+        "Model": "Accord",
+        "RegistrationExpiryDate": "2025-12-01T09:00:00+08:00",
+        "Plate": "1EFG-654"
+    },
+    {
+        "Id": "42bb7b16-8d86-4375-8911-6e621e84b9f3",
+        "Make": "Toyota",
+        "Model": "RAV4",
+        "RegistrationExpiryDate": "2026-07-20T16:00:00+08:00",
+        "Plate": "1HIJ-852"
+    },
+    {
+        "Id": "6e1b8a42-0b47-45a3-a1c1-0b53fb4f9b2d",
+        "Make": "Mercedes-Benz",
+        "Model": "C-Class",
+        "RegistrationExpiryDate": "2026-10-05T17:00:00+08:00",
+        "Plate": "1TUV-963"
+    },
+    {
+        "Id": "2dcf8316-d1be-4c8b-b67b-44547d4adbd1",
+        "Make": "Mazda",
+        "Model": "Mazda3",
+        "RegistrationExpiryDate": "2025-03-18T09:45:00+08:00",
+        "Plate": "1WXY-147"
+    },
+    {
+        "Id": "e1d65db2-ec21-4636-bc69-f3bda7e5d75e",
+        "Make": "BMW",
+        "Model": "3 Series",
+        "RegistrationExpiryDate": "2027-02-25T10:00:00+08:00",
+        "Plate": "1BCD-258"
+    },
+    {
+        "Id": "67a76da2-56e1-4b64-94dc-9e4c48a5bb43",
+        "Make": "Honda",
+        "Model": "Jazz",
+        "RegistrationExpiryDate": "2025-11-11T11:30:00+08:00",
+        "Plate": "1GHJ-369"
+    },
+    {
+        "Id": "a3e579d5-bc98-43d8-b3de-2f2dd4c5d5d7",
+        "Make": "Toyota",
+        "Model": "Corolla",
+        "RegistrationExpiryDate": "2026-04-22T13:30:00+08:00",
+        "Plate": "1NOP-753"
+    },
+    {
+        "Id": "ab473fdc-d5c6-4b16-b889-01fa1c74c82f",
+        "Make": "Mercedes-Benz",
+        "Model": "GLA",
+        "RegistrationExpiryDate": "2027-09-10T14:15:00+08:00",
+        "Plate": "1RST-159"
+    },
+    {
+        "Id": "1f3dcbf0-8c5d-47a7-b8f2-1a649cb98219",
+        "Make": "Mazda",
+        "Model": "Mazda2",
+        "RegistrationExpiryDate": "2025-02-28T09:00:00+08:00",
+        "Plate": "2DEF-789"
+    },
+    {
+        "Id": "56eae58c-bcc3-4d34-8a9d-9c4a2b283e0b",
+        "Make": "Honda",
+        "Model": "HR-V",
+        "RegistrationExpiryDate": "2025-06-16T12:00:00+08:00",
+        "Plate": "3GHI-345"
+    }
+]
